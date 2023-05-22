@@ -480,10 +480,10 @@ a:hover {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
-  padding: 0;
+  padding-left: 600px;
 }
 
 .navbar ul {
@@ -619,7 +619,7 @@ a:hover {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #fff;
@@ -759,7 +759,7 @@ a:hover {
 }
 
 .hero .hero-title {
-  color: #fff;
+  color: rgba(255, 255, 255, .6);
   font-weight: 600;
   font-size: 3rem;
 }
@@ -770,7 +770,14 @@ a:hover {
   }
 }
 
+.hero .hero-subtitle-one {
+  color: rgba(255, 255, 255, .6);
+  font-size: 3.5rem;
+  font-weight: 600;
+}
+
 .hero .hero-subtitle {
+  color: rgba(255, 255, 255, .6);
   font-size: 1.5rem;
   font-weight: 600;
 }
