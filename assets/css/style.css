@@ -483,7 +483,7 @@ a:hover {
 * Desktop Navigation
 */
 .navbar {
-  padding-left: 600px;
+  padding: 0;
 }
 
 .navbar ul {
@@ -691,7 +691,7 @@ a:hover {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #0078ff;
+  color: #025b1e;
 }
 
 .navbar-mobile .getstarted,
@@ -726,7 +726,7 @@ a:hover {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #0078ff;
+  color: #025b1e;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -813,7 +813,7 @@ a:hover {
 
 .hero-single .breadcrumb {
   background-color: transparent;
-  color: #0078ff;
+  color: #025b1e;
 }
 
 .hero-single .breadcrumb .breadcrumb-item:before {
